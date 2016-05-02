@@ -1,0 +1,16 @@
+{
+    "name": "m8rge/cli-template",
+    "description": "",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Putilov Andrew",
+            "email": "to.merge@gmail.com"
+        }
+    ],
+    "require": {
+        "mnapoli/silly": "^1.3",
+        "php-di/php-di": "^5.2"
+    }
+}
