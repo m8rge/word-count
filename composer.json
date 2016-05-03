@@ -1,6 +1,4 @@
 {
-    "name": "m8rge/cli-template",
-    "description": "",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
@@ -12,5 +10,10 @@
     "require": {
         "mnapoli/silly": "^1.3",
         "php-di/php-di": "^5.2"
+    },
+    "require-dev": {
+        "mikey179/vfsStream": "^1.6",
+        "phpunit/phpunit": "^5.3",
+        "php-mock/php-mock-phpunit": "^1.1"
     }
 }

@@ -15,7 +15,7 @@
   ],
   "git-version": "version",
   "main": "index.php",
-  "output": "application.phar",
+  "output": "wc.phar",
   "stub": true,
   "compression": "GZ",
   "compactors": "Herrera\\Box\\Compactor\\Php"
