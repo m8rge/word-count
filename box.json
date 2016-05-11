@@ -4,7 +4,8 @@
     "src"
   ],
   "files": [
-    "index.php"
+    "index.php",
+    "app.php"
   ],
   "finder": [
     {
