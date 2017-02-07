@@ -10,14 +10,14 @@
   "finder": [
     {
       "name": "*.php",
-      "notPath": "/test/i",
+      "notPath": "%\/tests\/%i",
       "in": "vendor"
     }
   ],
   "git-version": "version",
   "main": "index.php",
   "output": "wc.phar",
-  "stub": true,
+  "stub": "stub.php",
   "compression": "GZ",
   "compactors": "Herrera\\Box\\Compactor\\Php"
 }
